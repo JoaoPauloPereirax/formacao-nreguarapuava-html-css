@@ -3,12 +3,7 @@
    <strong align="center">PÁGINA WEB - NRE GUARAPUAVA</strong>
 </h1>
 
-
 <br>
-
-<p align="center">
-  <img alt="NRE-GUARAPUAVA" src="#" width="100%">
-</p>
 
 ## :wrench: Built With
 
